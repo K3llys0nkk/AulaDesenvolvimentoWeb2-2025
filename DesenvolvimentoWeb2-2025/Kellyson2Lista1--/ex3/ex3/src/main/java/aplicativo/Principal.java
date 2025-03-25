@@ -19,7 +19,7 @@ public class Principal {
 		EntityManager em = emf.createEntityManager(); //Intancia o EntityManager
 		
 		Cliente cliente1 = new Cliente("Rafael", "35", 01);
-		Vendedor vendedor1 = new Vendedor("Augusto", "26", 01);
+		Vendedor vendedor1 = new Vendedor("Kellyson", "19", 01);
 		
 		// Cliente cliente2 = new Cliente("Gabriel", "XXX.XXX.XXX-XX", 0001);
 		// Vendedor vendedor2 = new Vendedor("Uriel", "XXX.XXX.XXX-XX", 2);
